@@ -1,5 +1,4 @@
 ### Hi there 👋
-## Blog Work!
 <!--
 **V-Zhou/v-zhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
